@@ -1,4 +1,4 @@
 ### Davide Ettori
 
-I'm a double Master's Degree student at Politecnico di Milano and University of Illinois Chicago specializing, in Computer Science and Artificial Intelligence.
-My interests include Deep Learning, Large Language Models and Scientific Machine Learning.
+I'm a double Master's Degree student at Politecnico di Milano and the University of Illinois Chicago, in Computer Science and Artificial Intelligence.
+My research interests revolve around trustworthy and Robust AI, focusing on Large Language Models, Hallucination Detection, and Model Compression.
