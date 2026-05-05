@@ -1,4 +1,5 @@
 ### Davide Ettori
 
-I'm a double Master's Degree student at Politecnico di Milano and the University of Illinois Chicago, in Computer Science and Artificial Intelligence.
-My research interests revolve around Trustworthy and Robust AI, focusing on Large Language Models, Hallucination Detection, and Model Compression.
+I am a Computer Science PhD student in the Data Science Lab at Politecnico di Milano.
+My research interests include Reliability and Efficiency in Large Language Models or Vision-Language Models and Explainable AI.
+My work: https://scholar.google.it/citations?user=ZRLRfjIAAAAJ&hl=it - https://www.linkedin.com/in/davide-ettori-30a84719b
